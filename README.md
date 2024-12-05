@@ -19,3 +19,17 @@
 <p align="center">
 	<img width="625em" src="https://github.com/Abson-dev/Abson-dev/blob/main/github-metrics.svg" />
 </p>
+
+
+<br>
+<h2 >🏆 GitHub Profile Trophy</h2>
+<p>
+<a href="https://github.com/samsorrahman">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abson-dev&theme=matrix&column=8&margin-w=15&margin-h=15"/>
+
+</a>
+</p>
+<p align="center"> 
+  Views<br>
+  <img src="https://profile-counter.glitch.me/Abson-dev/count.svg" />
+</p>
