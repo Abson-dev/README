@@ -17,7 +17,7 @@
 ## 🚀GitHub Metrics
 
 <p align="center">
-	<img width="625em" src="https://github.com/Abson-dev/Abson-dev/blob/main/github-metrics.svg" />
+	<img width="625em" src="https://github.com/Abson-dev/main/github-metrics.svg" />
 </p>
 
 
